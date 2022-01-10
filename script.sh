@@ -1,3 +1,5 @@
 #!/bin/bash
-OUTPUT=~/backup_$(date +%Y%m%d).tgz
-tar -cvzf $OUTPUT $1
+# Display "Hello" to the screen
+echo Hello
+# Display "Good luck" to the screen
+echo Good luck
